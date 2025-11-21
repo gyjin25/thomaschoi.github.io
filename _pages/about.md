@@ -13,14 +13,12 @@ My fields of interest are Econometrics and Machine Learning.
 
 **Email**: [tgchoi2@illinois.edu](mailto:tgchoi2@illinois.edu)
 
-<br>
+**Research Interests**: Econometrics, Machine Learning, Empirical Asset Pricing
 
-**Research Interests**: Econometrics, Machine Learning, Financial Econometrics, Empirical Asset Pricing
 
-<br>
+<!-- [CV](/files/cv.pdf)  |  
+[Working Paper](/files/workingpaper.pdf) -->
 
-[CV](/files/cv.pdf)  |  
-[Working Paper](/files/workingpaper.pdf)
 <!-- [Job Market Paper](/files/jmp.pdf)  |  
 [Research Statement](/files/research_statement.pdf)
 
