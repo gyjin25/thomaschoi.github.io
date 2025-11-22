@@ -47,10 +47,10 @@
     "vendor/font-awesome/brands"
 ;
 /* ============================================
-   Custom Overrides by Thomas — Lato Version
+   Custom Overrides by Thomas — FINAL LATO VERSION
    ============================================ */
 
-/* Global font: Lato (modern, clean, academic) */
+/* Global font: Lato (clean + academic) */
 body,
 .page__content,
 .page__content p,
@@ -58,8 +58,8 @@ body,
 .author__content,
 .author__urls {
   font-family: "Lato", Helvetica, Arial, sans-serif !important;
-  font-size: 16px;
-  line-height: 1.6;
+  font-size: 17px;          /* slightly bigger, more readable */
+  line-height: 1.65;
   color: #222;
 }
 
@@ -74,11 +74,11 @@ body,
   color: #111;
 }
 
-.page__content h1 { font-size: 26px !important; margin-bottom: 12px; }
-.page__content h2 { font-size: 21px !important; margin-top: 24px; }
-.page__content h3 { font-size: 17px !important; }
+.page__content h1 { font-size: 28px !important; margin-bottom: 12px; }
+.page__content h2 { font-size: 22px !important; margin-top: 24px; }
+.page__content h3 { font-size: 18px !important; }
 
-/* Modern link style */
+/* Modern sky-blue links */
 a {
   text-decoration: none !important;
   color: #1E90FF;
@@ -90,33 +90,45 @@ a:hover {
   text-decoration: none !important;
 }
 
-/* Paragraph/list spacing */
+/* Spacing between paragraphs and lists */
 .page__content p,
 .page__content ul,
 .page__content ol {
   margin-bottom: 14px;
 }
 
-/* Sidebar (LEFT PANEL) improvements */
+/* ============================================
+   LEFT SIDEBAR FIXES (BIGGER + CLEANER)
+   ============================================ */
+
+.sidebar {
+  max-width: 300px !important;   /* wider left panel */
+}
+
+.author__avatar img {
+  width: 180px !important;        /* bigger profile picture */
+  height: 180px !important;
+  border-radius: 50%;
+}
+
 .author__name {
-  font-size: 26px !important;    /* Bigger name */
+  font-size: 28px !important;     /* big name */
   font-weight: 700;
 }
 
 .author__content {
-  font-size: 17px !important;     /* Slightly bigger body text */
+  font-size: 17px !important;     /* sidebar description text */
   line-height: 1.6;
 }
 
 .author__urls {
-  font-size: 16px !important;     /* Email/GitHub icons text */
+  font-size: 16px !important;     /* email / github */
 }
 
-.sidebar {
-  max-width: 280px !important;    /* Slightly wider sidebar */
-}
+/* ============================================
+   FOOTER REMOVAL
+   ============================================ */
 
-/* Remove footer */
 .site-footer,
 .page__footer {
   display: none !important;

@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-<div style="margin-top: 0.4rem;"></div>
-
 I am a Ph.D. student in Economics at <a href="https://economics.illinois.edu" style="text-decoration:none;">University of Illinois, Urbana-Champaign</a>.
 
 I am currently a third year student, and my fields of interest are Econometrics and Machine Learning. 
