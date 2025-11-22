@@ -133,3 +133,13 @@ a:hover {
 .page__footer {
   display: none !important;
 }
+
+/* Force spacing between email and research interests */
+.page__content p + p {
+  margin-top: 1rem !important;
+}
+
+/* Force spacing for custom spacer blocks */
+.page__content .spacer {
+  height: 1rem !important;
+}

@@ -7,16 +7,17 @@ redirect_from:
   - /about.html
 ---
 
+<div class="spacer"></div>
 
 I am a Ph.D. student in Economics at <a href="https://economics.illinois.edu" style="text-decoration:none;">University of Illinois, Urbana-Champaign</a>.
 
-I am currently a third year student, and my fields of interest are Econometrics and Machine Learning. 
+I’m currently a third-year student, and my areas of interest are Econometrics and Machine Learning
 
-<div style="margin-top: 0.4rem;"></div>
+<div class="spacer"></div>
 
 **Email**: [tgchoi2@illinois.edu](mailto:tgchoi2@illinois.edu)
 
-<div style="margin-top: 0.4rem;"></div>
+<div class="spacer"></div>
 
 **Research Interests**: Econometrics, Machine Learning, Empirical Asset Pricing
 
